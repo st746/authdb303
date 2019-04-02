@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5da6e984-b0ff-4036-9f2d-c356c82c76cd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d13d664b-8952-41ec-a8f7-6dadc0618d43.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d13d664b-8952-41ec-a8f7-6dadc0618d43.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/profile.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/profile.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="5da6e984-b0ff-4036-9f2d-c356c82c76cd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,23 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="das://d13d664b-8952-41ec-a8f7-6dadc0618d43/schema/main/table/posts">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
             <state>
               <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="das://d13d664b-8952-41ec-a8f7-6dadc0618d43/schema/main/table/users">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-              <column-attributes>
-                <column name="id" languageId="CSS" />
-              </column-attributes>
             </state>
           </provider>
         </entry>
@@ -418,23 +397,22 @@
       <workItem from="1554153294552" duration="2175000" />
       <workItem from="1554155551888" duration="16072000" />
       <workItem from="1554223403496" duration="5755000" />
-      <workItem from="1554238737193" duration="3843000" />
+      <workItem from="1554238737193" duration="4132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27845000" />
+    <option name="totallyTimeSpent" value="28134000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1894" height="1092" extended-state="0" />
-    <editor active="true" />
+    <frame x="1125" y="23" width="773" height="1092" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2300216" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.44596443" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49784017" visible="true" weight="0.21596725" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.7058824" visible="true" weight="0.21596725" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50215983" side_tool="true" visible="true" weight="0.21596725" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.29411766" side_tool="true" visible="true" weight="0.21596725" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
@@ -445,7 +423,7 @@
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Database Console" order="12" weight="0.32959184" />
-      <window_info active="true" anchor="right" id="Database" order="0" visible="true" weight="0.26349893" />
+      <window_info anchor="right" id="Database" order="0" visible="true" weight="0.5116279" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
@@ -566,13 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://d13d664b-8952-41ec-a8f7-6dadc0618d43/schema/main/table/posts">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -611,6 +582,13 @@
           <column-attributes>
             <column name="id" languageId="CSS" />
           </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d13d664b-8952-41ec-a8f7-6dadc0618d43/schema/main/table/posts">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
