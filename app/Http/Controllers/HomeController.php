@@ -35,12 +35,15 @@ class HomeController extends Controller
 
 
        // $users = User::all();
-        $users = User::where('id',1)
-            ->orderBy('name','desc')
-            ->take(10)
-            ->get();
-        dd($users->count());
-        return view('profile',['users' => $users]);
+        $user = Auth::user();
+
+       // $users = User::where('id',1)
+        //    ->orderBy('name','desc')
+          //  ->take(10)
+           // ->get();
+        $posts = $user->posts();
+
+        return view('profile', ['posts' => $posts]);
     }
 
 
